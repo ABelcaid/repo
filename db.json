@@ -3,10 +3,7 @@
     "transparent": "transparent",
     "black": "#000",
     "white": "#fff",
-    "primary": "#FF8551",
-    "gray": {
-      "50": "#f7fafc",
-      "900": "#171923"
-    }
+    "primary": "#0082c8",
+    "secondary" : "#6f7a7c"
   }
 }
